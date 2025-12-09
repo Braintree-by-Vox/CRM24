@@ -1,4 +1,3 @@
-
 # CRM24
 
 ## Overview
@@ -8,3 +7,5 @@ Your business will be ready to sell and service your customers without the huge 
 standards, and allows further extension and full scalability intact.
 
 It is a launch pad for continuous growth of customer relationships, profits and synchronisation of your organisation. It is further enhanced with built-in automated workflows for internal and external communication.
+
+
