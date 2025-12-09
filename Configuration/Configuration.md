@@ -11,20 +11,20 @@ There are 3 main websites to be aware of and bookmark.
 
 ### PowerApps 
 
-URL : http://make.powerapps.com/
+[URL: ](http://make.powerapps.com)
 
-![alt text](image.png)
+  ![alt text](image.png)
 
 The 2 main things to be aware of here are:
-1.	The environment you are in – if customisations are made, they should not be made in the default environment, but instead in a new environment.
-2.	The Solutions are is where you can make all your customisations.
+- The environment you are in – if customisations are made, they should not be made in the default environment, but instead in a new environment.
+- The Solutions are where you can make all your customisations.
 
-Within a solution you can see the various tables, views, forms and also processes etc.
+Within a solution, you can see the various tables, views, forms and processes.
 
-![alt text](image-1.png)
+  ![alt text](image-1.png)
 
 ### Microsoft 365 Admin Centre
-URL: https://admin.microsoft.com/Adminportal
+[URL:](https://admin.microsoft.com/Adminportal)
 
 From within the Admin portal your CRM24 users can be managed.
 
