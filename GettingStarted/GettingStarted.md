@@ -3,25 +3,25 @@ layout: default
 title: CRM24 Getting Started 
 description: Support and documentation for Braintree's CRM24
 ---
-
-# Getting Started
-- Access your environment by opening your web browser and browse to the URL provided to you by Braintree, which will look something like this:
+# Getting Started on CRM24
+Access your environment by opening your web browser and browse to the URL provided to you by Braintree, which will look something like this:
 
         https://{yourorgname}.crm4.dynamics.com/main.aspx
 
-- Enter the admin user name and password:
+Enter the admin user name and password:
 
     ![alt text](image.png)
 
+
 - [Navigation](#navigation)
-- [Theme Colurs and Logos](#theme-colours-and-logos)
+- [Theme, Colours and Logos](#theme-colours-and-logos)
 
 ## Navigation
 The BTCRM24Combo Business App opens in the following page:
 
 ![alt text](image-1.png)
 
-Mavigation within the app is located on the left side of the page. This is known as the site map.
+Navigation within the app is located on the left side of the page. This is known as the site map.
 
 There are different areas, such as
 - dashboards 
@@ -37,20 +37,19 @@ There are different areas, such as
 - [Dashboards](#dashboards)
 - [Timeline](#timeline)
 
-At the bottom left, you can change the area within the app so this could be app settings.
+At the bottom left, you can change the area within the app.
 
 ![alt text](image-2.png)
 
 ### Navigation Pane
 To navigate your CE Application, use the Navigation Pane on the left:
-
-![alt text](image-3.png)
+    ![alt text](image-3.png)
 
 To switch between the Sales Hub or the Service Hub, simply click on the existing hub e.g. Sales Hub, found on the top of the page next to the CRM24 icon
-
-![alt text](image-4.png)
-
-![alt text](image-5.png)
+    
+    ![alt text](image-4.png)
+    
+    ![alt text](image-5.png)
 
 As part of CRM24, the 2 apps that are available for use are
 - Customer Service Hub
@@ -58,15 +57,15 @@ As part of CRM24, the 2 apps that are available for use are
   
 After selecting Service Hub, the navigation pane on the left will have a few different options, now relevant to the Service Hub
 
-![alt text](image-6.png)
+    ![alt text](image-6.png)
 
 For easy navigation, you can use the “Recent” area to navigate to areas recently visited:
 
-![alt text](image-7.png)
+    ![alt text](image-7.png)
 
 To pin items from recently viewed record types to see them under “Pinned” area
 
-![alt text](image-8.png)
+    ![alt text](image-8.png)
 
 [**⬆️ Back to Top**](#navigation) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/CRM24)
 
@@ -98,7 +97,7 @@ The details of the new record can then be completed and saved e.g. new appointme
 
 ![alt text](image-14.png)
 
->Note: The red Asterix indicates required fields. If you try to save a record without >completing all required fields you will receive an error showing you the fields >needing to be completed.
+>Note: The red Asterix indicates required fields. If you try to save a record without completing all required fields you will receive an error showing you the fields needing to be completed.
 
 ![alt text](image-15.png)
 
@@ -106,7 +105,7 @@ When a list of records is displayed from a view, click on the name of the record
 
 ![alt text](image-16.png)
 
-The record is then opened for viewing /editing/
+The record is then opened for viewing or editing
 
 ![alt text](image-17.png)
 
@@ -148,18 +147,18 @@ Another way of applying a column filter is to click on the column and choose to 
 [**⬆️ Back to Top**](#navigation) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/CRM24)
 
 ### Timeline
-With your timeline, you can create your different activities, your notes with attachments and other posts. You do have a nice filtering capability. So within the timeline you could filter by record type like the different activity types. If you wanted to just look at the emails or just look at the tasks or phone calls, do that right within here within the record.
+With your timeline, you can create different activities, notes with attachments and other posts. Within the timeline you could filter by record type such as the different activity types, for example just emails or just phone calls. 
 
 ![alt text](image-26.png)
 
 [**⬆️ Back to Top**](#navigation) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/CRM24)
 
 ### Personalisations
-Using the Gear in the top right of the window, you can access Personalisation Settings
+Using the ⚙️ Gear in the top right of the window, you can access **Personalisation Settings**
 
 ![alt text](image-27.png)
 
-This is where you can set certain settings that are relative to your login only i.e. No of records to display on a page (useful when needing to export records to Excel), or an email signature e.t.c
+This is where you can modify certain settings that relate to your login only, for example Number of records to display on a page (useful when needing to export records to Excel), or an email signature.
 
 ![alt text](image-28.png)
 
@@ -168,19 +167,20 @@ This is where you can set certain settings that are relative to your login only 
 ## Theme Colours and Logos
 The system theme colours of CRM24 can be changed to match your organisations theme colours. You can also add a logo.
 
-This is done from within Settings  Customisation
+This is done from within Settings ➡️ Customisation
 
 ![alt text](image-29.png)
 
-then choosing themes
+then choosing **Themes** 
 
 ![alt text](image-30.png)
 
 ![alt text](image-31.png)
 
-New themes can be creating by Clicking on New.
-Existing Themes can be cloned by clicking on Clone.
-Once a theme has been created\edited – to make it the active theme, click on Publish Theme
+New themes can be created by licking on **New**.
+
+Existing themes can be cloned by clicking on **Clone**.
+Once a theme has been created or edited, to make it the active theme, click on **Publish Theme**
 
 ![alt text](image-32.png)
 
