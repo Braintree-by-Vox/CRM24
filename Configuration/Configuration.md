@@ -270,6 +270,149 @@ Unit Groups are defined as per how a product is sold i.e. in what unit it is bei
 
 Discounts can be setup and can be made dependant on the quantity of the product being sold.
 
+## Administration
+
+![alt text](image.png)
+
+### System Settings
+Navigate to Settings  Administration  System Settings.
+
+![alt text](image-41.png)
+
+>System settings should not be changed from the initial setup by anyone without the appropriate Dynamics 365 Experience, as it can affect the performance of the entire environment adversely. 
+
+Many different system settings are set here. Some of the key ones to note are mentioned below.
+
+**Country Code**
+![alt text](image-42.png)
+
+**Regional number, currency, time and date**
+![alt text](image-43.png)
+
+**Auditing**
+![alt text](image-44.png)
+
+Auditing allows you to see changes made by users in the system to records. 
+
+Auditing can be enabled at each entity or even at a field level, however with CRM24 by default we provide the option to turn on or off auditing for the Sales module and or Service Module only.
+
+**Email Server Profile**
+![alt text](image-45.png)
+
+The Server profile is set by default to: Microsoft Exchange Online
+
+**Reporting**
+![alt text](image-46.png)
+
+Where custom Power BI reports are created in the Power BI Service and you wish for these to be embedded in CRM24, then the highlighted option needs to be marked as “Yes” 
+ 
+## Processes
+
+### Business Process Flows
+Navigate to: Settings  Processes
+
+![alt text](image-47.png)
+
+Add a filter to the Category to only show Business Process Flows.
+
+A number of business process flows have been created by default for use.
+
+With the “Phone to Case Process” in services (cases/incidents) we have 4 stages in a process: Identify -> Research -> Escalate -> Resolve
+
+![alt text](image-48.png)
+
+With the sales “Lead to Opportunity” and “Opportunity Sales process” business process flows we see 4 stages
+
+![alt text](image-49.png)
+
+![alt text](image-50.png)
+
+A stage is what we see defined when we are working through the capture of information for a particular area i.e. the lead to opportunity process
+
+![alt text](image-51.png)
+
+In Power Apps the fields needed to be completed within each stage are defined.
+
+![alt text](image-52.png)
+
+In the business process flow conditions could also be added, as well as Workflows and Action Steps
+
+![alt text](image-53.png)
+
+### Workflows
+Workflows are used to automate certain actions and become very useful. They can be used to notify users of changes and send emails. They can be used to change the status of records etc. 
+
+By default we provide a number of default workflows for Sales and Service, however as a start these are mostly not activated.
+
+Sales
+![alt text](image-54.png)
+
+Service
+![alt text](image-55.png)
+
+On each workflow  various steps are set 
+e.g. On the Lead, there is a workflow for “Open Passed reminder”
+
+![alt text](image-56.png)
+
+One step involves sending a reminder email – by clicking on Properties the email can be defined according to your need.
+
+![alt text](image-57.png)
+
+## Imports
+Using the Data Import Templates Provided, populated with the data you wish to import.  
+- Do not remove or expand columns A, B or C 
+- Copy data in columns  
+- Take note of data types 
+- Where Option sets – use available options only  
+- Where Lookup – value must already exist in the system existing data 
+- Where numerical – take note of limitations on number ranges  
+
+**Navigate to Data Management**
+In the Settings Dropdown, click on the dropdown arrow, then scroll to Data Management Click in the Data Management Tile to open 
+
+![alt text](image-58.png)
+
+**Open the imports area**
+![alt text](image-59.png)
+
+Click on Import Data
+![alt text](image-60.png)
+
+**Select Import Template**
+Open the “Import Data” wizard, select (browse to) the Import Template File 
+Click on “Choose File” – select the template to be imported 
+Click Next to Proceed
+
+![alt text](image-61.png)
+
+**Select the prepopulated template
+![alt text](image-62.png)
+
+***Review Settings***
+-	Allow Duplicates: Decide if you want to allow duplicate values or unique values only 
+-	Select Owner: Which system user will be the owner of the records imported - 	Click on “Submit” 
+ 
+![alt text](image-63.png) 
+
+**Finish Import**
+
+![alt text](image-64.png)
+
+**Monitor Success**
+Still under Settings >> Data Management, check under the Status columns 
+-	Success: Successful Records Imported and Created 
+-	Errors: Records that failed and were not successfully imported
+
+![alt text](image-65.png)
+
+Compare successes against Total Processed 
+-	When status is “Completed”
+
+![alt text](image-66.png)
+
+When Complete, the import process is complete.  
+If Errors, open the Import File, read error message, fix data in template accordingly, rerun import. 
 
 
 [**⬆️ Back to Top**](#sales-leads-opportunities-and-activities) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/CRM24) 
