@@ -9,12 +9,4 @@ standards, and allows further extension and full scalability intact.
 
 It is a launch pad for continuous growth of customer relationships, profits and synchronisation of your organisation. It is further enhanced with built-in automated workflows for internal and external communication.
 
-## Getting Started
-- Access your environment by opening your web browser and browse to the URL provided to you by Braintree, which will look something like this:
-
-        https://{yourorgname}.crm4.dynamics.com/main.aspx
-
-- Enter the admin user name and password:
-
-    ![alt text](image.png)
-
+## [Navigation](GettingStarted.md)
