@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Configure Vendor Reconciliation 
-description: Support and documentation for Braintree's Vendor Reconciliation extension to Microsoft Dynamics 365 Business Central
+title: CRM24 Getting Started 
+description: Support and documentation for Braintree's CRM24
 ---
 
 # Getting Started
@@ -12,6 +12,9 @@ description: Support and documentation for Braintree's Vendor Reconciliation ext
 - Enter the admin user name and password:
 
     ![alt text](image.png)
+
+- [Navigation](#navigation)
+- [Theme Colurs and Logos](#theme-colours-and-logos)
 
 ## Navigation
 The BTCRM24Combo Business App opens in the following page:
@@ -160,6 +163,39 @@ This is where you can set certain settings that are relative to your login only 
 
 ![alt text](image-28.png)
 
+[**⬆️ Back to Top**](#navigation) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/CRM24)
+
+## Theme Colours and Logos
+The system theme colours of CRM24 can be changed to match your organisations theme colours. You can also add a logo.
+
+This is done from within Settings  Customisation
+
+![alt text](image-29.png)
+
+then choosing themes
+
+![alt text](image-30.png)
+
+![alt text](image-31.png)
+
+New themes can be creating by Clicking on New.
+Existing Themes can be cloned by clicking on Clone.
+Once a theme has been created\edited – to make it the active theme, click on Publish Theme
+
+![alt text](image-32.png)
+
+>Note: The logo 1st needs to be added as a web resource before it can be used
+>Navigate to Settings - >> Customise the system
+
+![alt text](image-33.png)
+
+Navigate to Components - >> Web Resources
+
+![alt text](image-34.png)
+
+Choose to Add a New web resource.
+
+![alt text](image-35.png)
 
 
 [**⬆️ Back to Top**](#navigation) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/CRM24)
