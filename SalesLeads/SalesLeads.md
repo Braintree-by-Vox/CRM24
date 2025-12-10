@@ -1,7 +1,7 @@
 ---
 layout: default
-title: CRM24
-description: Support and documentation for Braintree's CRM24
+title: CRM24 Sales Lead Management
+description: CRM24 Sales Lead Management
 ---
 
 # [Sales Leads, Opportunities and Activities](SalesLeads)

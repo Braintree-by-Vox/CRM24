@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CRM24 Sales Leads and Opportunities
-description: Customer Accounts and Contacts
+description: Customer Accounts and Contacts Management
 ---
 # Customer Accounts and Contacts
 
