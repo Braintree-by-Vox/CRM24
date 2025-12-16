@@ -92,7 +92,7 @@ Complete all details, select the appropriate parent for hierarchy, and click on 
 
 Your business unit structure should follow the advised below process 
 
-(Insert diagram here)
+  ![alt text](BusinessUnit.drawio)
  	
 Never Change your Root Business unit 
 The Root Business Unit must always be the main Parent to any other business units under it. 

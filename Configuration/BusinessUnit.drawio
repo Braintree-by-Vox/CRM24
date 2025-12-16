@@ -1,0 +1,27 @@
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="page1">
+        <mxGraphModel dx="614" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.008;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" source="2" edge="1" target="3">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="220" y="150" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" edge="1" parent="1" source="2" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Parent" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="130" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Business unit 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="240" y="120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Business unit 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="240" y="200" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
