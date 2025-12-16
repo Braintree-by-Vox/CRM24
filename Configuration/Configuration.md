@@ -90,7 +90,7 @@ Complete all details, select the appropriate parent for hierarchy, and click on 
 
   ![alt text](image-13.png)
 
-Your business unit structure should follow the advised below process 
+Your business unit structure should follow the recommended below process 
 
   ![alt text](BusinessUnit.png)
  	
