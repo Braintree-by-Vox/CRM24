@@ -60,7 +60,7 @@ The Advanced Settings are where all customisations and settings can be accessed.
 
 [**⬆️ Back to Top**](#sales-leads-opportunities-and-activities) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/CRM24) 
 
-## Scurity / Environment Setup
+## Security / Environment Setup
 
 ### Set up Business Unit Structure
 Navigate to Advanced Settings  Security  Business Units
@@ -92,7 +92,7 @@ Complete all details, select the appropriate parent for hierarchy, and click on 
 
 Your business unit structure should follow the advised below process 
 
-  ![alt text](BusinessUnit.drawio)
+  (insert diagram here)
  	
 Never Change your Root Business unit 
 The Root Business Unit must always be the main Parent to any other business units under it. 
