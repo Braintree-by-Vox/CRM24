@@ -67,7 +67,7 @@ For easy navigation, you can use the “Recent” area to navigate to areas rece
 
 To pin items from recently viewed record types to see them under “Pinned” area
 
-    ![alt text](image-8.png)
+  ![alt text](image-8.png)
 
 [**⬆️ Back to Top**](#navigation) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/CRM24)
 
