@@ -49,9 +49,9 @@ To navigate your CE Application, use the Navigation Pane on the left:
 
 To switch between the Sales Hub or the Service Hub, simply click on the existing hub e.g. Sales Hub, found on the top of the page next to the CRM24 icon
     
-    ![alt text](image-4.png)
+  ![alt text](image-4.png)
     
-    ![alt text](image-5.png)
+  ![alt text](image-5.png)
 
 As part of CRM24, the 2 apps that are available for use are
 - Customer Service Hub
