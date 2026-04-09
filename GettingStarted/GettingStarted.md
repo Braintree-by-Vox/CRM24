@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CRM24 Getting Started 
+title: Braintree CRM24 Getting Started 
 description: Support and documentation for Braintree's CRM24
 ---
 # Getting Started on CRM24
